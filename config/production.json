@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://salih123:salih123@cluster0.ngbtu.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://divyanshug7897:sarita321@todoapp.rf0gb9j.mongodb.net/?retryWrites=true&w=majority&appName=todoapp",
     "jwtSecret": "secret"
   }
   
