@@ -1,4 +1,4 @@
-# Todo App as a Single Page Application
+# To_DO_Application
 
 ![Screenshot 2024-05-24 134858](https://github.com/ObitoDevv/To_Do_Application/assets/57661791/a2d986c9-7221-49d4-aa3d-523e993fdbb9)
 
